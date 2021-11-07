@@ -1,3 +1,6 @@
-1. npm i
-1. npm start
-1. npm run build
+1. yarn
+1. yarn start
+
+@tensorflow/tfjs-node works fine, slightly faster than webgl backend in the browser
+
+now testing @tensorflow/tfjs-node-gpu
